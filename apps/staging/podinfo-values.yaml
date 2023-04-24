@@ -6,7 +6,7 @@ metadata:
 spec:
   chart:
     spec:
-      version: "6.3.4"
+      version: "6.3.5"
   values:
     ingress:
       hosts:
